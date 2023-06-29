@@ -1,0 +1,113 @@
+#sunsistem {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+#quadrocopter {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 500px 0 0 400px;
+}
+#kaseta {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 250px 0 0 500px;
+}
+#columns {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 100px 0 0 50px;
+}
+#camera {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 100px 0 0 600px;
+}
+#robot {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 100px 0 0 750px;
+}
+#batton {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 600px 0 0 750px;
+}
+#bluecomp {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 300px 0 0 300px;
+}
+#redcomp {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 100px 0 0 400px;
+}	
+
+#mouse {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 550px 0 0 200px;
+
+}
+#nout {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 530px 0 0 50px;
+}
+#comp {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 355px 0 0 550px;
+}
+
+#comp_chair {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 291px 0 0 705px;
+	width="150"
+}
+
+#headphones{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 267px 0 0 84px;
+}
+
+#microphone {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 167px 0 0 184px;
+}
+#wires {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 550px 0 0 550px;
+}
+
+#message {
+    position: absolute;
+    font-family: "Times New Roman", Times, serif;
+    background-color: black;
+    color: white;
+    font-size: 20pt;	
+    top: 0;
+    left: 0;
+    margin: 100px 0 0 320px;
+}
+
